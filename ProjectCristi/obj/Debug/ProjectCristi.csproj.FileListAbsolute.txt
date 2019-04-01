@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\ProjectCristi.exe.config
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\ProjectCristi.exe
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\ProjectCristi.pdb
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.Properties.Resources.resources
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.exe
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.pdb
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.Interface.resources
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\EntityFramework.dll
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\EntityFramework.xml
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.csproj.CopyComplete
+C:\Users\crist\source\repos\ProjectCristi\ProjectCristi\obj\Debug\ProjectCristi.Connection.resources
